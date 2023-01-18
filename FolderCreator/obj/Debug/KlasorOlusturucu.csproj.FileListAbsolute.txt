@@ -1,0 +1,31 @@
+D:\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\bin\Debug\KlasorOlusturucu.exe.config
+D:\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\bin\Debug\KlasorOlusturucu.exe
+D:\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\bin\Debug\KlasorOlusturucu.pdb
+D:\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.csprojResolveAssemblyReference.cache
+D:\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.Form1.resources
+D:\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.Properties.Resources.resources
+D:\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.csproj.GenerateResource.Cache
+D:\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.exe
+D:\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.pdb
+C:\Users\resul\Desktop\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\bin\Debug\KlasorOlusturucu.exe.config
+C:\Users\resul\Desktop\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\bin\Debug\KlasorOlusturucu.exe
+C:\Users\resul\Desktop\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\bin\Debug\KlasorOlusturucu.pdb
+C:\Users\resul\Desktop\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.csproj.AssemblyReference.cache
+C:\Users\resul\Desktop\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\resul\Desktop\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.Form1.resources
+C:\Users\resul\Desktop\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.Properties.Resources.resources
+C:\Users\resul\Desktop\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.csproj.GenerateResource.cache
+C:\Users\resul\Desktop\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.csproj.CoreCompileInputs.cache
+C:\Users\resul\Desktop\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.exe
+C:\Users\resul\Desktop\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.pdb
+C:\Users\resul\Desktop\My Files\PROGRAMLAMA\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\bin\Debug\KlasorOlusturucu.exe.config
+C:\Users\resul\Desktop\My Files\PROGRAMLAMA\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\bin\Debug\KlasorOlusturucu.exe
+C:\Users\resul\Desktop\My Files\PROGRAMLAMA\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\bin\Debug\KlasorOlusturucu.pdb
+C:\Users\resul\Desktop\My Files\PROGRAMLAMA\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.csproj.AssemblyReference.cache
+C:\Users\resul\Desktop\My Files\PROGRAMLAMA\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\resul\Desktop\My Files\PROGRAMLAMA\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.Form1.resources
+C:\Users\resul\Desktop\My Files\PROGRAMLAMA\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.Properties.Resources.resources
+C:\Users\resul\Desktop\My Files\PROGRAMLAMA\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.csproj.GenerateResource.cache
+C:\Users\resul\Desktop\My Files\PROGRAMLAMA\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.csproj.CoreCompileInputs.cache
+C:\Users\resul\Desktop\My Files\PROGRAMLAMA\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.exe
+C:\Users\resul\Desktop\My Files\PROGRAMLAMA\CSharp Projeler\C#\KlasorOlusturucu\KlasorOlusturucu\obj\Debug\KlasorOlusturucu.pdb
